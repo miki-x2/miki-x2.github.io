@@ -16,11 +16,9 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Backend Software Engineering" },
+    { "name": "Machine Learning and AI" },
+    { "name": "Fitness" }
   ],
   "skills": [
     {
