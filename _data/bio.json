@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "GoLang", "Posix C", "C++", "Kotlin", "Linux", "Python" ]
+      "keywords": [ "GoLang", "C", "C++", "Kotlin", "Linux", "Python", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "IntelliJ", "Visual Studio Code", "Docker", "Git/GitHub", "Android Studio", "CLion" ]
+      "keywords": [ "MacOS", "IntelliJ", "Visual Studio Code", "Docker", "Git/GitHub", "Android Studio", "CLion", "Command Line Interface" ]
     }
   ],
   "education": [
@@ -35,7 +35,7 @@
       "studyType": "B.S.",
       "startDate": "Fall 2020",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Programming for Engineers", "Object Oriented Programming", "Intro to Digital Design", "Intro to Engineering Design", "Basic Analysis I & II", "Microelectronic Circuits I", "Signal and System Analysis", "Physical Electronics", "Engr Electromagnetics I"
       ]
     }
   ],
