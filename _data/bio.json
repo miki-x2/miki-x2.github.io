@@ -1,18 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Miki Kojima",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://avatars.githubusercontent.com/u/122401775?v=4",
+    "email": "miki615@hawaii.edu",
+    "phone": "808-258-9361",
+    "website": "https://miki-x2.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering with a minor in Mathematics at the University of Hawaii. I expect to graduate in Fall of 2024.",
+    "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "miki-x2", "url": "http://github.com/miki-x2" },
+      { "network": "linkedin", "username": "mikikojima", "url": "https://www.linkedin.com/in/mikikojima/" }
     ]
   },
   "interests": [
@@ -23,19 +21,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "GoLang", "Posix C", "C++", "Kotlin", "Linux", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "IntelliJ", "Visual Studio Code", "Docker", "Git/GitHub", "Android Studio", "CLion" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "Fall 2020",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,70 +41,73 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Department of Mathematics",
+      "position": "Calculus IV Grader",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "Spring 2022",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Prepare solutions to calculus IV homework sets",
+        "Examine, correct, and promptly grade students’ assignments by a deadline"
+      ]
+    },
+    
+     {
+      "company": "RVCM",
+      "position": "Software Engineering Intern",
+      "website": "https://www.rvcm.com/",
+      "startDate": "May 2023",
+      "endDate": "August 2023",
+      "summary": "",
+      "highlights": [
+        "Wrote unit tests to improve test coverage of Aolytix, a cloud infrastructure visualization tool",
+        "Developed an AWS simulator for developers on the Aolytix team for scaling and performance testing"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "UH Manoa Department of Engineering",
+      "position": "Basic Analysis II Grader",
+      "website": "",
+      "startDate": "January 2023",
+      "endDate": "May 2023",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Examined, corrected, and provided feedback to students’ midterm and final exams within a week"
       ]
     },
     {
-      "organization": "",
+      "company": "UH Manoa Department of Mathematics",
+      "position": "Tutor",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "May 2022",
+      "endDate": "August 2022",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Provided academic assistance to students in need",
+        "Guided students with homework and test preparation"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+     {
+      "title": "Dean's List",
+      "date": "2020, 2021, 2022, 2023",
+      "awarder": "University of Hawaii, College of Engineering",
+      "summary": "Recognition for students who earn a semester GPA of 3.5 or higher based on 12 credits or more taken for a grade and do not receive grades of W, I, F, or NC for that semester"
+    },
+     {
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2020",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship for first-time, degree-seeking students with a GPS 3.8 or higher"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
+      "title": "Hawaii Seal of Biliteracy in Japanese and English",
+      "date": "May 2020",
+      "awarder": "Hawaii State Department of Education",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+    }   
   ],
   "references": [
     {
