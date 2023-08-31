@@ -10,7 +10,7 @@ labels:
   - JavaScript
 ---
 
-<img width="300px" src="../img/javascriptLogo.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/javascriptLogo.png">
 
 ## Deja Vu with JavaScript: Day One
 My learning experience with JavaScript reminded me of the first day of my internship. This past summer, I was a software engineer intern at a local standup company, RVCM. On the first day, I was given a single link similar to freeCodeCamp to learn a new programming language, GoLang. Although I was not given a specific date to complete the training, I quickly hopped on the website to get acquainted with the new language. Given how long it took for me to learn Python, C, and C++ in my previous classes, I assumed it would take a while to absorb the new information. To my surprise, however, learning GoLang did not take too long and I was able to quickly jump to my tasks in the next few days. 
