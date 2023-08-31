@@ -15,7 +15,9 @@
   },
   "interests": [
     { "name": "Backend Software Engineering" },
-    { "name": "Machine Learning and AI" },
+    { "name": "Machine Learning" },
+    { "name": "AI" },
+    { "name": "UI Development" },
     { "name": "Fitness" }
   ],
   "skills": [
