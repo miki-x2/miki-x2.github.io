@@ -32,7 +32,7 @@ The following is an overview of the timeline of the Animal Farm project:
 Each lab took approximately 1~2 weeks to complete and varied in difficulty. However, each lab was very meaningful as it taught valuable skills and knowledge of the C and C++ language while providing opportunities to exercise and gain experience in object-oriented programming.
 
 Example of some of the implementations in the Animal class file:
-<img class="img-fluid" src="../img/AnimalFarmScreenShot.png">
-<img class="img-fluid" src="../img/AnimalFarmScreenShot2.png">
+<img width="700px" src="../img/AnimalFarmScreenShot.png">
+<img width="700px" src="../img/AnimalFarmScreenShot2.png">
 
 
