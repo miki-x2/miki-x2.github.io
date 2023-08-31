@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/AnimalFarm.jpeg
-title: "Vacay"
+title: "Animal Farm"
 date: 2023
 published: true
 labels:
