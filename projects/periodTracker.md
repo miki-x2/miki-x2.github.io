@@ -17,5 +17,5 @@ As a woman, tracking menstrual cycles are very useful and important as it helps 
 I developed this application using Kotlin for the programming language and Android Studio for the IDE, in which I learned by going through the training on the Android Developers website. I used an open source database called Realm to update, store, and access data. 
 
 Here are some screenshots highlighting my application:
-<img class="img-fluid" src="../img/PeriodTrackerScreenShot1">
-<img class="img-fluid" src="../img/PeriodTrackerScreenShot2">
+<img class="img-fluid" src="../img/PeriodTrackerScreenShot1.png">
+<img class="img-fluid" src="../img/PeriodTrackerScreenShot2.png">
