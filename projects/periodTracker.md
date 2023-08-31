@@ -20,4 +20,4 @@ Here are some screenshots highlighting my application:
 
 
 <img width="600px" src="../img/PeriodTrackerScreenShot1.png">
-<img width="600px" src="../img/PeriodTrackerScreenShot2.png">
+<img width="300px" src="../img/PeriodTrackerScreenShot2.png">
