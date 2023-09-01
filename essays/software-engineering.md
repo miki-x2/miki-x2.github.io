@@ -10,7 +10,7 @@ labels:
   - Career
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/javascriptLogo.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/software-engineering.png">
 
 ## How It Started 
 
