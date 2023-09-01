@@ -10,7 +10,7 @@ labels:
   - Career
 ---
 
-<img width="300px" class="rounded float-start" src="../img/software-engineering.png">
+<img width="280px" class="rounded float-start pe-3" src="../img/software-engineering.png">
 
 
 ## How It Started 
