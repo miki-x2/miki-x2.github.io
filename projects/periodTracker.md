@@ -10,7 +10,6 @@ labels:
   - GitHub
   - Android Studio
 summary: "A simple period tracking app I developed for EE 296"
-projecturl: https://github.com/miki-x2/PeriodTracker
 ---
 
 As a woman, tracking menstrual cycles are very useful and important as it helps gauge when to expect the next cycle, understand why cramps are occuring, and to look for signs of irregularity. A lot of the applications I used in the past are either too complicated to use or lacks the feautres I want. I developed a simple application that is easy to use and has the functionalities that were lacking in most applications that are on the market. Since I am passionate about fitness and health, I wanted my application to not just track my menstrual cycle, but also help me log my mood, appetite, sleep, water intake, and if I am experiencing any symptoms. 
@@ -24,3 +23,5 @@ Here are some screenshots highlighting my application:
 
 <img width="600px" src="../img/PeriodTrackerScreenShot1.png">
 <img width="300px" src="../img/PeriodTrackerScreenShot2.png">
+
+Link to repository: <a href="https://github.com/miki-x2/PeriodTracker"><i class="large github icon "></i>miki-x2/PeriodTracker</a>
