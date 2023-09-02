@@ -16,7 +16,9 @@ projecturl: "https://github.com/EE-205/ee205_animal_farm-miki-x2.git"
 ---
 Animal Farm is a large project completed in EE 205. Each lab within the project was designed to learn and practice the basics of C and C++ and adopt good software engineering skills using tools such as Git, CLion, and the command-line. Upon the completion of each lab, students were expected to push new or updated files to GitHub. 
 
-Throughout the Animal Farm project, I learned object-oriented programming by representing animals as objects and implementing the organization of the database in C++. I was introduced to CLion, an IDE that is extremely powerful in programming and organizing various files such as README, CMake, and Doygen documentations. I also wrote unit tests to ensure the implementations in my code works properly for every test case. 
+As this project was done individually, there was no specific role for me. Therefore, I was responsible for all of the work, which involved reading documentations consisting of specific tasks and requirements for each lab. Upon completing every lab, I had to make sure my code passes all of the unit tests before pushing my commits to GitHub.
+
+Throughout the Animal Farm project, I learned object-oriented programming by representing animals as objects and implementing the organization of the database in C++. I was introduced to CLion, an IDE that is extremely powerful in programming and organizing various files such as README, CMake, and Doygen documentations. I also learned how to write good unit tests to ensure the implementations in my code works properly for every test case. 
 
 The following is an overview of the timeline of the Animal Farm project:
 
