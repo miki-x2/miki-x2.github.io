@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/microVIP1.png
+image: img/microVIP1.jpg
 title: "Micro VIP"
 date: 2023
 published: true
