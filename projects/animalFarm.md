@@ -12,7 +12,6 @@ labels:
   - Object Oriented Programming
   - GitHub
 summary: "Animal Farm is a large project that consists of a series of labs. Each lab is designed to learn and practice the basics of C and C++."
-projecturl: "https://github.com/EE-205/ee205_animal_farm-miki-x2.git"
 ---
 Animal Farm is a large project completed in EE 205. Each lab within the project was designed to learn and practice the basics of C and C++ and adopt good software engineering skills using tools such as Git, CLion, and the command-line. Upon the completion of each lab, students were expected to push new or updated files to GitHub. 
 
@@ -40,3 +39,4 @@ Example of some of the implementations in the Animal class file:
 <img width="700px" src="../img/AnimalFarmScreenShot.png">
 <img width="700px" src="../img/AnimalFarmScreenShot2.png">
 
+Link to repository: <a href="https://github.com/EE-205/ee205_animal_farm-miki-x2"><i class="large github icon "></i>EE-205/ee205_animal_farm-miki-x2</a>
