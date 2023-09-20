@@ -11,7 +11,10 @@ labels:
   - ESLint
   - IntelliJ
 ---
-<img width="280px" class="rounded float-start pe-3" src="../img/eslint.jpeg">
+
+<p align="center">
+  <img width="280px" src="../img/eslint.jpeg"/>
+</p>
 
 ## OCD or Detail Oriented?
 The Myers-Briggs Type Indicator (MBTI) assessment has recently become one of the most popular personality assessment tests among young people. The MBTI divides people into 16 personality types, in which each is assigned psychological traits and a four-letter code. My MBTI is ISTJ and INTJ, in which I stand for introversion, S for sensing, N for intuition, T for thinking, and J for judging. Having both traits of sensing and being intuitive, I can be a realistic person who values focusing on facts and details but also focuses on probabilities and the big picture to seek both practical and creative solutions to problems. I love writing, but it bothers me when captions under figures are not centered, paragraphs are misaligned, and margins around a paper are not even. People might view me as being “OCD,” but being attentive to detail produces clean, consistent work that is both aesthetically pleasing and easier to read. Although a bit complicated, I see my personality trait as an advantage as it allows me to be detail-oriented while still being creative—a trait desirable for software engineers. 
