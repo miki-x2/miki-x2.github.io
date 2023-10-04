@@ -33,16 +33,16 @@ With learning anything new, there is always a learning curve. Learning and using
 
 Although it is probably possible to create aesthetically pleasing, beautiful websites with just raw HTML and CSS, it is much easier and time efficient to use Bootstrap 5. Below is a comparison of a website using raw HTML and CSS (left) and Bootstrap 5 (right).
 
-<div class="text-center p-4">
-  <img width="500px" src="../img/rawHTMLCSS.png" class="img-thumbnail" >
-  <img width="500px" src="../img/usingBootstrap.png" class="img-thumbnail" >
+<div class="text-center">
+  <img width="600px" src="../img/rawHTMLCSS.png" class="img-thumbnail" >
+  <img width="600px" src="../img/usingBootstrap.png" class="img-thumbnail" >
 </div>
 
 I am especially proud of my recreation of the Be:Lift website using Bootstrap 5. The real website is shown on the left and my recreation is shown on the right. 
 
-<div class="text-center p-4">
-  <img width="500px" src="../img/realBeLift.png" class="img-thumbnail" >
-  <img width="500px" src="../img/mockBeLift.png" class="img-thumbnail" >
+<div class="text-center">
+  <img width="600px" src="../img/realBeLift.png" class="img-thumbnail" >
+  <img width="600px" src="../img/mockBeLift.png" class="img-thumbnail" >
 </div>
 
 Before experiencing UI development, I was mostly interested in backend engineering. However, after creating a handful of websites using HTML, CSS, and UI frameworks such as Bootstrap 5, I have started to become interested in frontend engineering as well. I plan to explore and experiment with what I can create with Bootstrap 5 and hope to incorporate my improved skills soon. 
