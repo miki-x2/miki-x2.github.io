@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "One Up With JavaScript"
+title: "Behind the Screen: UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-04
 published: true
