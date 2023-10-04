@@ -13,7 +13,7 @@ labels:
   - CSS
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/javascriptLogo.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/bootstrap.jpeg">
 
 # Taking a Break From Algorithms
 
