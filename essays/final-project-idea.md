@@ -31,5 +31,10 @@ The solution: Our solution is to modernize the physical bulletin boards on campu
 - User goes to the landing page, logs in, create a new project with contact info so people can contact them.
 
 ## Beyond the basics
+- Before a project is submitted and posted on the site, the admin first reviews and approves of the project.
+- Allowed to follow certain majors and get notifications for recently uploaded projects.
+- Get notifications on projects that you applied for.
+- Notifications via email (like a email notification subscription)
+
 
 
