@@ -81,7 +81,9 @@ Despite its challenges and limitations, I believe that AI should be integrated i
 
 # Comparative Analysis
 Traditional teaching methods include in-person or online lectures, tutorials, and the usage of slides, textbooks, and notes. Comparing these methods to AI-enhanced approaches, there are aspects of traditional teaching methods that AI cannot replace. For example, it is impossible to reach out to a classmate, teaching assistant, or even the instructor for help, if learning was to be solely based on AI. Furthermore, the responses that AI generates are not always guaranteed to be accurate or even up-to-date. In terms of engagement, traditional methods allow for more interactions between students and instructors, which can increase motivation and positive emotions throughout the learning process. 
+
 As for knowledge retention, I believe that is solely dependent on the student. Every student has different preferred learning styles and may find it easier or harder to learn independently. The benefit of traditional teaching methods is that the information is given in steps, starting from an introduction to gradually introducing more complex content. Therefore, the learning process is very seamless. However, with AI, the requested information is given directly to the student, with no introductory steps. It should also be noted that with traditional teaching methods, the instructor usually has a fixed scope of what to teach to students. However, with AI, there is no scope, so the information provided can be difficult to understand.
+
 Practical skill development also depends on the student. Some may prefer a hands-on learning environment, while others may prefer to learn by asking AI questions. Both teaching methods allow students to practice their knowledge, so using a combination of both may maximize development. 
 
 # Future Considerations
