@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "AI in ICS 314: The New Tool"
+# All dates must be YYYY-MM-DD format!
+date: 2023-11-21
+published: true
+labels:
+  - Software Engineering
+  - Artificial Intelligence
+  - ChatGPT
+---
+
 # Introduction
 
 The recent emergence of Artificial Intelligence (AI) and its involvement with education sparked a heated debate regarding its usage. Since the release of ChatGPT, many of my professors threatened the class with heavy consequences if we were “caught” using AI to do our assignments. However, I believe that those against AI usage in education only focus on the negatives and fail to realize how it can serve as a powerful tool that helps students understand concepts better. Software engineering is an endless learning process and to keep up with everything is a daunting task. Sometimes, it is also difficult to memorize every detail for different programming languages. Although many languages have similar syntax or structure, their subtle differences can be very difficult to distinguish and recall. AI serves as a quick, helpful tool by providing concise answers or insight to a specific question or topic. Given that students in ICS 314 were allowed to use AI, I have used ChatGPT a few times in this class.
@@ -62,3 +75,14 @@ Another challenge I faced was the accuracy of ChatGPT.  For some topics or conce
 
 Despite its challenges and limitations, I believe that AI should be integrated into software engineering education as it provides students with an additional source of information to learn and enhance their skills. A section of the class dedicated to learning how to incorporate AI into learning may help understand how to properly use AI. 
 
+# Comparative Analysis
+Traditional teaching methods include in-person or online lectures, tutorials, and the usage of slides, textbooks, and notes. Comparing these methods to AI-enhanced approaches, there are aspects of traditional teaching methods that AI cannot replace. For example, it is impossible to reach out to a classmate, teaching assistant, or even the instructor for help, if learning was to be solely based on AI. Furthermore, the responses that AI generates are not always guaranteed to be accurate or even up-to-date. In terms of engagement, traditional methods allow for more interactions between students and instructors, which can increase motivation and positive emotions throughout the learning process. 
+As for knowledge retention, I believe that is solely dependent on the student. Every student has different preferred learning styles and may find it easier or harder to learn independently. The benefit of traditional teaching methods is that the information is given in steps, starting from an introduction to gradually introducing more complex content. Therefore, the learning process is very seamless. However, with AI, the requested information is given directly to the student, with no introductory steps. It should also be noted that with traditional teaching methods, the instructor usually has a fixed scope of what to teach to students. However, with AI, there is no scope, so the information provided can be difficult to understand.
+Practical skill development also depends on the student. Some may prefer a hands-on learning environment, while others may prefer to learn by asking AI questions. Both teaching methods allow students to practice their knowledge, so using a combination of both may maximize development. 
+
+# Future Considerations
+AI will take on more significant roles soon not only the software engineering education but in all aspects of learning. Although it may not guarantee accurate responses each time for now, with undergoing improvements, it will soon become an additional resource for students. Potential advancements in AI could include generating practice exams or coding prompts for students to practice before in-class WODs or exams, feedback on areas of improvement in terms of skill, and a more humane response to motivate students throughout the learning process. With any technology, there are challenges, and with AI, ethical usage will be one of the largest issues. For AI to officially be one of the main resources for students to use, there should be regulations regarding when and how to use AI ethically. This is especially important in software engineering where programming is an acquired skill, and using AI may hinder students from experiencing coding by themselves. 
+
+# Conclusion
+AI has opened doors to new opportunities and possibilities in the education field. My experience with using AI such as ChatGPT has been positive for the most part, however, some challenges and improvements must be made to fully rely on this technology. After being threatened with consequences numerous times by previous professors, using ChatGPT to generate something I will use, such as a block of code or even a function, feels like cheating, though that is not the case. Since I am still developing my programming skills, I also prefer to struggle with coding instead of getting it right the first time with the help of AI. 
+In the future, I can see AI being an extremely powerful resource for students. It not only acts as a fine-tuned search engine but also takes on the role of a teaching assistant, except it is more convenient as students can ask for help or feedback at any time and from anywhere. Combining traditional teaching methods with AI can provide students with options to find their best-fit learning style and further reinforce their knowledge. Having a portion of the class or even an entire course dedicated to ethical AI usage in education may help all students understand how to properly use AI so that everyone has the same fundamental knowledge in regards to integrating it into their learning. 
