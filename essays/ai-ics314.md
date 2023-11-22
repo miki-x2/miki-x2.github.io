@@ -10,6 +10,10 @@ labels:
   - Artificial Intelligence
   - ChatGPT
 ---
+<p align="center">
+  <img width="280px" src="../img/ai-in-education.jpeg"/>
+</p>
+
 
 # Introduction
 
