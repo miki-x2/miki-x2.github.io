@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 <p align="center">
-  <img width="280px" src="../img/ai-in-education.jpeg"/>
+  <img width="280px" src="../img/cooking.webp"/>
 </p>
 
 
