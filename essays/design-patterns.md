@@ -21,6 +21,10 @@ Whether you are Gordon Ramsay or a software engineering student cooking up a dis
 
 
 # Recipes I Swear By
+<p align="center">
+  <img width="300px" src="../img/singleton.png"/>
+</p>
+
 One of the most commonly used design patterns in software engineering is the Singleton pattern. The Singleton pattern restricts the instantiation of a class while providing a global access point to that instance. I use this pattern the most, especially in my final group project for ICS 314, [UHM Clubhouse](https://github.com/uhm-clubhouse/uhm-clubhouse). The UHM Clubhouse is a website that allows students to browse a directory of all current student clubs with information such as a brief description and contact information. In this project, the Singleton pattern is used for various collections to be exported, so that they can be used throughout the entire project. One example from our code is the ClubsInterestsCollection, which is a collection that holds the interests associated with each club. Here, the Singleton pattern is implemented as the ClubsInterest variable is exported and is an instance of the ClubsInterestsCollection class. Instances of this class cannot be created outside of the module unless it is imported. 
 
 ```
