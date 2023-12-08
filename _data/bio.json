@@ -14,9 +14,8 @@
     ]
   },
   "interests": [
-    { "name": "Backend Software Engineering" },
+    { "name": "Fullstack Software Engineering" },
     { "name": "Machine Learning" },
-    { "name": "AI" },
     { "name": "UI Development" },
     { "name": "AWS" },
     { "name": "Kubernetes" }
@@ -24,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "GoLang", "C", "C++", "Kotlin", "Linux", "Python", "Javascript" ]
+      "keywords": [ "GoLang", "C", "C++", "Kotlin", "Linux", "Python", "Javascript", "Assembly", "ReactJS", "Meteor", "HTML", "CSS", "SystemVerilog" ]
     },
     {
       "name": "Toolsets/OS",
@@ -38,7 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2020-08-01",
       "endDate": "Present",
-      "courses": [ "Programming for Engineers", "Object Oriented Programming", "Intro to Digital Design", "Intro to Engineering Design", "Basic Analysis I & II", "Microelectronic Circuits I", "Signal and System Analysis", "Physical Electronics", "Engr Electromagnetics I"
+      "courses": [ "Programming for Engineers", "Object Oriented Programming", "Intro to Digital Design", "Intro to Engineering Design", "Basic Circuit Analysis I & II", "Microelectronic Circuits I", "Discrete Mathematics for Engineers", "Signal and System Analysis", "Physical Electronics", "Engr Electromagnetics I", "EE Probability & Statistics", "Software Engineering I", "Digital Systems & Computer Design", "Probability"
       ]
     }
   ],
