@@ -44,8 +44,8 @@ UI development using HTML and CSS can get extremely complicated and messy, espec
 Especially after experiencing multiple web development with implementations of interactive components such as buttons, forms, and dropdowns, UI frameworks come in very handy. For example, in our group's final project, I implemented a filter feature that allows users to filter the clubs shown on the club listing page by interest. I also implemented a search function that allows users to search for clubs by typing in a keyword. Both of these functionalities were implemented using React Bootstrap.
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/final-essay/final-exam-filter.png"/>
-  <img width="300px" src="../img/final-essay/final-exam-search.png"/>
+  <img width="600px" src="../img/final-essay/final-exam-filter.png"/>
+  <img width="600px" src="../img/final-essay/final-exam-search.png"/>
 </div>
 
 Although I cannot deny my love and passion for back-end engineering, I can confidently say that I have developed an interest in pursuing front-end engineering, specifically UI development through exploring and experiencing the possibilities provided by UI frameworks. I hope and plan to dive deeper into UI development using the knowledge and skills I acquired to integrate UI frameworks into my personal and academic projects in the future.
