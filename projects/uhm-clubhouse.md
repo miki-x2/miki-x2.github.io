@@ -17,7 +17,9 @@ summary: "The UHM Clubhouse is an application for students to browse an organize
 
 ## UHM Clubhouse
 
-<img width="700px" src="../img/uhm-clubhouse-landing.png">
+<p align="center">
+  <img width="700px" src="../img/uhm-clubhouse-landing.png">
+</p>
 
 The [UHM Clubhouse](https://uhm-clubhouse.xyz/) is a website created by a group of six members using the knowledge and skills developed throughout ICS 314 while practicing agile project management. The purpose of the website is for students to browse an organized directory of all current student clubs available at UH Manoa. Each club consists of a brief description such as meeting information, contact information, and related interests.
 
@@ -28,7 +30,9 @@ The team consisted of six members: Keiko, Iverson, Lizyl, Chad, Delsin, and myse
 
 My contributions to the project are spread throughout the application. For example, I worked on creating the "Club Listing" page and implementing a filter and search function that can also be seen on the "Your Clubs" page. The filter function allows users to filter the clubs by interest and the search function allows users to browse clubs by keyword(s).
 
-<img width="700px" src="../img/uhm-clubhouse-clublisting.png">
+<p align="center>
+  <img width="700px" src="../img/uhm-clubhouse-clublisting.png">
+</p>
 
 Another contribution was the Create Club page, where I primarily worked on the backend to make sure the data was written to MongoDB when a form was submitted. 
 <div class="text-center p-4">
@@ -38,7 +42,9 @@ Another contribution was the Create Club page, where I primarily worked on the b
 
 I also helped with the "Admin Requests" page to display all of the emails that were requested to be made an admin and implemented a "hide" feature to temporarily remove the card.
 
-<img width="700px" src="../img/uhm-clubhouse-reqadmin.png">
+<p align="center>
+  <img width="700px" src="../img/uhm-clubhouse-reqadmin.png">
+</p>
 
 Additionally, I tested all of the pages and features on each page to ensure it is functional for all roles, using TestCafe. 
 
