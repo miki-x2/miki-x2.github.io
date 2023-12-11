@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: img/uhm-clubhouse-logo.png
 title: "UHM Clubhouse"
 date: 2023
 published: true
