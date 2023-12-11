@@ -30,7 +30,7 @@ The team consisted of six members: Keiko, Iverson, Lizyl, Chad, Delsin, and myse
 
 My contributions to the project are spread throughout the application. For example, I worked on creating the "Club Listing" page and implementing a filter and search function that can also be seen on the "Your Clubs" page. The filter function allows users to filter the clubs by interest and the search function allows users to browse clubs by keyword(s).
 
-<p align="center>
+<p align="center">
   <img width="700px" src="../img/uhm-clubhouse-clublisting.png">
 </p>
 
@@ -42,7 +42,7 @@ Another contribution was the Create Club page, where I primarily worked on the b
 
 I also helped with the "Admin Requests" page to display all of the emails that were requested to be made an admin and implemented a "hide" feature to temporarily remove the card.
 
-<p align="center>
+<p align="center">
   <img width="700px" src="../img/uhm-clubhouse-reqadmin.png">
 </p>
 
