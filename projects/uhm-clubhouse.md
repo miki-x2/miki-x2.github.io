@@ -24,6 +24,7 @@ On the website, users can sign in or create an account to view, join, or leave c
 The team consisted of six members: Keiko, Iverson, Lizyl, Chad, Delsin, and myself. By practicing agile project management, our tasks were organized and equally divided. We mainly worked off of the [GitHub organization](https://github.com/uhm-clubhouse), specifically through [project boards](https://github.com/orgs/uhm-clubhouse/projects), which organized our tasks for Milestones [1](https://github.com/orgs/uhm-clubhouse/projects/2), [2](https://github.com/orgs/uhm-clubhouse/projects/5), and [3](https://github.com/orgs/uhm-clubhouse/projects/6) and issues that corresponded to each task. I enjoyed using the project board for each milestone because it helped me understand who was working on what and allowed for collaboration and cooperation. 
 
 My contributions to the project are spread throughout the application. For example, I worked on creating the "Club Listing" page and implementing a filter and search function that can also be seen on the "Your Clubs" page. The filter function allows users to filter the clubs by interest and the search function allows users to browse clubs by keyword(s).
+
 <img width="700px" src="../img/uhm-clubhouse-clublisting.png">
 
 Another contribution was the Create Club page, where I primarily worked on the backend to make sure the data was written to MongoDB when a form was submitted. 
@@ -33,6 +34,7 @@ Another contribution was the Create Club page, where I primarily worked on the b
 </div>
 
 I also helped with the "Admin Requests" page to display all of the emails that were requested to be made an admin and implemented a "hide" feature to temporarily remove the card.
+
 <img width="700px" src="../img/uhm-clubhouse-reqadmin.png">
 
 Additionally, I tested all of the pages and features on each page to ensure it is functional for all roles, using TestCafe. 
