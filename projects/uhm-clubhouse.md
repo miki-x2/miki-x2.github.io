@@ -40,8 +40,7 @@ Another contribution was the Create Club page, where I primarily worked on the b
     <img width="600px" src="../img/uhm-clubhouse-write2.png">
 </div>
 
-I also helped with the "Admin Requests" page to display all of the emails that were requested to be made an admin and implemented a "hide" feature to temporarily remove the card.
-
+I also helped with the "Admin Requests" page to display all the emails that were requested to be made an admin and implemented a "hide" feature to temporarily remove the card.
 <p align="center">
   <img width="700px" src="../img/uhm-clubhouse-reqadmin.png">
 </p>
