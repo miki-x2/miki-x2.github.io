@@ -16,6 +16,9 @@ summary: "The UHM Clubhouse is an application for students to browse an organize
 ---
 
 ## UHM Clubhouse
+
+<img width="700px" src="../img/uhm-clubhouse-landing.png">
+
 The [UHM Clubhouse](https://uhm-clubhouse.xyz/) is a website created by a group of six members using the knowledge and skills developed throughout ICS 314 while practicing agile project management. The purpose of the website is for students to browse an organized directory of all current student clubs available at UH Manoa. Each club consists of a brief description such as meeting information, contact information, and related interests.
 
 On the website, users can sign in or create an account to view, join, or leave clubs. Users can also request to be an admin, who can create, delete, and edit clubs. Additionally, the application consists of an additional role called the "super admin," who is authorized to view and accept admin requests. 
