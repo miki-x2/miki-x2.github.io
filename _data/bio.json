@@ -6,7 +6,7 @@
     "email": "miki615@hawaii.edu",
     "phone": "808-258-9361",
     "website": "https://miki-x2.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering with a minor in Mathematics at the University of Hawaii. I expect to graduate in Fall of 2024.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall of 2024.",
     "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "miki-x2", "url": "http://github.com/miki-x2" },
@@ -16,18 +16,18 @@
   "interests": [
     { "name": "Fullstack Software Engineering" },
     { "name": "Machine Learning" },
-    { "name": "UI Development" },
+    { "name": "Web Development" },
     { "name": "AWS" },
     { "name": "Kubernetes" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "GoLang", "C", "C++", "Kotlin", "Linux", "Python", "Javascript", "Assembly", "ReactJS", "Meteor", "HTML", "CSS", "SystemVerilog" ]
+      "keywords": [ "GoLang", "C", "C++", "Kotlin", "Linux", "Python", "Javascript", "Assembly", "ReactJS", "Meteor", "HTML/CSS", "SystemVerilog", "Matlab", "Swift", "Firebase", "MongoDB", "MapKit", "CoreLocation" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "IntelliJ", "Visual Studio Code", "Docker", "Git/GitHub", "Android Studio", "CLion", "Command Line Interface" ]
+      "keywords": [ "MacOS", "IntelliJ", "Visual Studio Code", "Docker", "Git/GitHub", "Android Studio", "CLion", "Command Line Interface", "XCode" ]
     }
   ],
   "education": [
@@ -37,7 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2020-08-01",
       "endDate": "Present",
-      "courses": [ "Programming for Engineers", "Object Oriented Programming", "Intro to Digital Design", "Intro to Engineering Design", "Basic Circuit Analysis I & II", "Microelectronic Circuits I", "Discrete Mathematics for Engineers", "Signal and System Analysis", "Physical Electronics", "Engr Electromagnetics I", "EE Probability & Statistics", "Software Engineering I", "Digital Systems & Computer Design", "Probability"
+      "courses": [ "Programming for Engineers", "Object Oriented Programming", "Intro to Digital Design", "Intro to Engineering Design", "Basic Circuit Analysis I & II", "Microelectronic Circuits I", "Discrete Mathematics for Engineers", "Signal and System Analysis", "Physical Electronics", "Engr Electromagnetics I", "EE Probability & Statistics", "Software Engineering I", "Digital Systems & Computer Design", "Probability", "Machine Learning", "Data Structures & Algorithms", "Engineering Ethics"
       ]
     }
   ],
@@ -93,14 +93,18 @@
   ],
   "volunteer": [
     {
-      "organization": "Eta Kappa Nu (HKN)",
+      "organization": "Eta Kappa Nu (HKN) Delta Omega Chapter",
       "website": "https://hknhawaii.weebly.com/",
-      "position": "Pledge",
+      "position": "Recording Secretary",
       "startDate": "2023-08-30",
       "endDate": "Present",
-      "summary": "Pledge for the national honor society for electrical engineers. The University has the Delta Omega Chapter, who are active in service including tutoring of electrical & computer engineering course subjects.",
+      "summary": "International honor society of the Institute of Electrical and Electronics Engineers.",
       "highlights": [
-        
+        "Records meeting minutes at HKN General and Officer meetings",
+        "Reserves appropriate rooms, tables, chairs, and equipment for meetings and events",
+        "Assists Treasurer with financial responsibilities and funding presentations",
+        "Organizes and compiles appropriate IRS taxes and paperwork",
+        "Liaison between the CoE and departmental offices"
       ]
     }
   ],
