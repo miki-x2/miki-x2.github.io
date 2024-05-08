@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Recipes to Good Code | Miki Kojima | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://avatars.githubusercontent.com/u/122401775?v=4">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Miki Kojima | Professional Portfolio">
+    <meta property="og:url" content="https://miki-x2.github.io/essays/design-patterns.html">
+    <meta property="og:title" content="Recipes to Good Code | Miki Kojima | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/122401775?v=4">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Recipes to Good Code | Miki Kojima | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Miki Kojima</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Recipes to Good Code</h1>
+  <span class="date">29 Nov 2023</span>
+  <hr>
+  <p align="center">
+  <img width="280px" src="../img/cooking.webp" />
+</p>
+
+<h1 id="the-secret-to-cooking-up-good-code">The Secret to Cooking Up Good Code</h1>
+<p>One of my hobbies outside of school is cooking. According to the Myers-Briggs Type Indicator (MBTI), my personality type prefers predictability over intuition and spontaneity. As a result, I prefer following standard cooking patterns and instructions listed in recipes over doing whatever I want at that moment. Design patterns in software engineering are like recipes, providing proven solutions that act as guidance on how to tackle common problems. Similar to how following a recipe yields a successful dish, utilizing design patterns helps developers create consistent and efficient code that consists of best practices in software engineering.</p>
+
+<p>Whether you are Gordon Ramsay or a software engineering student cooking up a dish for dinner, recipes exist for a reason: To streamline the cooking process and ensure consistency in every dish that is created. Surely, cooking without a recipe is possible. However, there is no guarantee that the dish will taste or even look the same every time. If something goes wrong during the cooking process, it will be difficult for other people of chefs to help if you are inconsistently freestyling. Similarly, coding without following a certain design pattern is certainly not impossible, but with compromised tidiness and inconsistency in code. This results in difficulties for other developers to understand, collaborate, or even assist in achieving the desired outcome. To avoid such conflict, developers of all levels often turn to design patterns to confront challenges in software development, from handling communication between various components to managing code flow.</p>
+
+<h1 id="recipes-i-swear-by">Recipes I Swear By</h1>
+<p align="center">
+  <img width="300px" src="../img/singleton.png" />
+</p>
+
+<p>One of the most commonly used design patterns in software engineering is the Singleton pattern. The Singleton pattern restricts the instantiation of a class while providing a global access point to that instance. I use this pattern the most, especially in my final group project for ICS 314, <a href="https://github.com/uhm-clubhouse/uhm-clubhouse">UHM Clubhouse</a>. The UHM Clubhouse is a website that allows students to browse a directory of all current student clubs with information such as a brief description and contact information. In this project, the Singleton pattern is used for various collections to be exported, so that they can be used throughout the entire project. One example from our code is the ClubsInterestsCollection, which is a collection that holds the interests associated with each club. Here, the Singleton pattern is implemented as the ClubsInterest variable is exported and is an instance of the ClubsInterestsCollection class. Instances of this class cannot be created outside of the module unless it is imported.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import { Mongo } from 'meteor/mongo';
+import SimpleSchema from 'simpl-schema';
+
+/** Encapsulates state and variable values for this collection. */
+class ClubsInterestsCollection {
+  constructor() {
+    // The name of this collection.
+    this.name = 'ClubsInterestsCollection';
+    // Define the Mongo collection.
+    this.collection = new Mongo.Collection(this.name);
+    // Define the structure of each document in the collection.
+    this.schema = new SimpleSchema({
+      club: String,
+      interest: String,
+    });
+    // Ensure collection documents obey schema.
+    this.collection.attachSchema(this.schema);
+    // Define names for publications and subscriptions
+    this.userPublicationName = `${this.name}.publication.user`;
+    this.adminPublicationName = `${this.name}.publication.admin`;
+  }
+}
+
+export const ClubsInterests = new ClubsInterestsCollection();
+</code></pre></div></div>
+
+<h1 id="final-comments">Final Comments</h1>
+<p>Looking back at some of my code, I realized that design patterns are what enabled my projects to be consistent and efficient, allowing me to manage databases and make modifications for improvements. Design patterns in software engineering are the backbone of a well-structured, efficient code, just like the recipes and cookbooks that cannot be disposed of, no matter how old and dirty they become. When I face a challenge where I am unsure of what the best solution is, design patterns help me find the best approach to software development. As I progress in my software engineering development journey, I will continue to reference my recipes to find the best design pattern while picking up new recipes that will help me craft the best code I can program.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

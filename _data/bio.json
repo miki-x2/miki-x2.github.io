@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Miki Kojima",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/122401775?v=4",
+    "email": "miki615@hawaii.edu",
+    "phone": "808-258-9361",
+    "website": "https://miki-x2.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall of 2024.",
+    "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "miki-x2", "url": "http://github.com/miki-x2" },
+      { "network": "linkedin", "username": "mikikojima", "url": "https://www.linkedin.com/in/mikikojima/" }
+    ]
+  },
+  "interests": [
+    { "name": "Fullstack Software Engineering" },
+    { "name": "Machine Learning" },
+    { "name": "Web Development" },
+    { "name": "AWS" },
+    { "name": "Kubernetes" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "GoLang", "C", "C++", "Kotlin", "Linux", "Python", "Javascript", "Assembly", "ReactJS", "Meteor", "HTML/CSS", "SystemVerilog", "Matlab", "Swift", "Firebase", "MongoDB", "MapKit", "CoreLocation" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "IntelliJ", "Visual Studio Code", "Docker", "Git/GitHub", "Android Studio", "CLion", "Command Line Interface", "XCode" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "courses": [ "Programming for Engineers", "Object Oriented Programming", "Intro to Digital Design", "Intro to Engineering Design", "Basic Circuit Analysis I & II", "Microelectronic Circuits I", "Discrete Mathematics for Engineers", "Signal and System Analysis", "Physical Electronics", "Engr Electromagnetics I", "EE Probability & Statistics", "Software Engineering I", "Digital Systems & Computer Design", "Probability", "Machine Learning", "Data Structures & Algorithms", "Engineering Ethics"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Department of Mathematics",
+      "position": "Calculus IV Grader",
+      "website": "",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Prepare solutions to calculus IV homework sets",
+        "Examine, correct, and promptly grade students’ assignments by a deadline"
+      ]
+    },
+    
+     {
+      "company": "RVCM",
+      "position": "Software Engineering Intern",
+      "website": "https://www.rvcm.com/",
+      "startDate": "May 2023-05-20",
+      "endDate": "2023-08-18",
+      "summary": "",
+      "highlights": [
+        "Wrote unit tests to improve test coverage of Aolytix, a cloud infrastructure visualization tool",
+        "Developed an AWS simulator for developers on the Aolytix team for scaling and performance testing"
+      ]
+    },
+    {
+      "company": "UH Manoa Department of Engineering",
+      "position": "Basic Analysis II Grader",
+      "website": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-05-01",
+      "summary": "",
+      "highlights": [
+        "Examined, corrected, and provided feedback to students’ midterm and final exams within a week"
+      ]
+    },
+    {
+      "company": "UH Manoa Department of Mathematics",
+      "position": "Tutor",
+      "website": "",
+      "startDate": "2022-05-01",
+      "endDate": "2022-08-01",
+      "summary": "",
+      "highlights": [
+        "Provided academic assistance to students in need",
+        "Guided students with homework and test preparation"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Eta Kappa Nu (HKN) Delta Omega Chapter",
+      "website": "https://hknhawaii.weebly.com/",
+      "position": "Recording Secretary",
+      "startDate": "2023-08-30",
+      "endDate": "Present",
+      "summary": "International honor society of the Institute of Electrical and Electronics Engineers.",
+      "highlights": [
+        "Records meeting minutes at HKN General and Officer meetings",
+        "Reserves appropriate rooms, tables, chairs, and equipment for meetings and events",
+        "Assists Treasurer with financial responsibilities and funding presentations",
+        "Organizes and compiles appropriate IRS taxes and paperwork",
+        "Liaison between the CoE and departmental offices"
+      ]
+    }
+  ],
+  "awards": [
+     {
+      "title": "Dean's List",
+      "date": "2020, 2021, 2022, 2023",
+      "awarder": "University of Hawaii, College of Engineering",
+      "summary": "Recognition for students who earn a semester GPA of 3.5 or higher based on 12 credits or more taken for a grade and do not receive grades of W, I, F, or NC for that semester"
+    },
+     {
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2020",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship for first-time, degree-seeking students with a GPA 3.8 or higher"
+    },
+    {
+      "title": "Hawaii Seal of Biliteracy in Japanese and English",
+      "date": "May 2020",
+      "awarder": "Hawaii State Department of Education",
+      "summary": "An award given by the state in recognition of students who have studied and attained proficiency in Japanese and English."
+    }   
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
