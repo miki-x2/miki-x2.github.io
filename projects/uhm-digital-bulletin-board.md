@@ -33,6 +33,7 @@ A new announcement can be made by pressing the plus button on the top right corn
 <p align="center">
   <img src="../img/uhm-digital-bulletin-board-newpost.png" width="150px" />
   <img src="../img/uhm-digital-bulletin-board-error.png" width="150px" />
+</p>
 
 
 There are two methods the location can be entered when creating a new announcement post. One way is by selecting the “Select a Location” button, which allows the user to zoom into a map and select any location by tapping. The second method is by selecting the “Select Current Location” button, which allows the user to associate their current location with the announcement post.
@@ -40,6 +41,7 @@ There are two methods the location can be entered when creating a new announceme
 <p align="center">
   <img src="../img/uhm-digital-bulletin-board-method1.png" width="150px" />
   <img src="../img/uhm-digital-bulletin-board-method2.png" width="150px" />
+</p>
 
 For both methods, the location name is displayed in the form after the user confirms their selection. This allows the user to check that their selected location is correct.
 
