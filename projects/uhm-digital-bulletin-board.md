@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/uhm-digital-bulletin-board-logo.png
+image: img/uhm-digital-bulletin-board-logo.png
 title: "UHM Digital Bulletin Board"
 date: 2024
 published: true
