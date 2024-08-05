@@ -64,3 +64,13 @@ The final tab is the profile view, which is a simple page that displays the user
 <p align="center">
   <img width="300px" src="../img/uhm-digital-bulletin-board-profile.png">
 </p>
+
+## Backend Design
+The backend design utilized the Firebase application development service for the database and user authentication. The Firebase service is integrated in such a way that when an account is created, the information associated with the account such as the user’s full name, email address, and the date the account was created, is stored as a collection of users in the database. For each user, there is an association with another collection of items, which are the announcements. Tthe information stored in the database for each announcement includes the date the announcement was created, description, title, a boolean that represents whether the announcement was marked as done or not, latitude and longitude of the location, and location as a string. Upon the successful creation and registration of an account and announcement, a unique identification is assigned to the user and the announcement post. 
+
+<p align="center">
+  <img width="500px" src="../img/firebase1.png">
+</p>
+<p align="center">
+  <img width="500px" src="../img/firebase2.png">
+</p>
